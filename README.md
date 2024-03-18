@@ -12,3 +12,8 @@
  - Sovelluksessa pystyy myös etsimään muita käyttäjiä
 
 3. Linkki API-dokumentaatioon (backend repo): [APIDOC](https://github.com/FisnikKami/backendprojekti)
+
+#refrenssit
+käytin refrenssinä tätä youtube videota https://www.youtube.com/watch?v=hlwlM4a5rxg&t=258s&ab_channel=Codehal
+
+
